@@ -1,0 +1,30 @@
+_repo: The-Lost-Door_32831
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32831-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quick, Dorothy
+    alias: Mayer, Dorothy Gertrude
+    birthdate: 1896
+    deathdate: 1962
+    gutenberg_agent_id: '36070'
+    url: http://www.gutenberg.org/2009/agents/36070
+description: ''
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Blessing and cursing -- Fiction'
+- !lcsh 'Ghost stories'
+title: The Lost Door
+url: http://www.gutenberg.org/ebooks/32831
