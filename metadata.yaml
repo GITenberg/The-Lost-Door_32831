@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36070'
     url: http://www.gutenberg.org/2009/agents/36070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32831#The-Lost-Door
 gutenberg_issued: '2010-06-16'
 gutenberg_type: Text
 identifiers:
